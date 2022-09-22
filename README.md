@@ -16,8 +16,10 @@
 ## Work Experience:
 #### 1. [Rumah Zakat](https://www.rumahzakat.org) | Data Enginner | Bandung `march'2022 - Now`
    - Development of data pipe with airflow
-   - Development
-   - Development 
+   - Development data lifecycle from ingestion, cleansing, transformation to consumption.
+   - Experience in using orchestration tools (e.g. Airflow, Nifi)
+   - Experience open source transformation tool (e.g. dbt)
+   
 #### 2. [Pusat Teknologi Informasi dan Pangkalan Data, PTIPD ](https://ptipd.uinsgd.ac.id/) | IT Support | Bandung `2019-2019`
    - Development
    - Development
