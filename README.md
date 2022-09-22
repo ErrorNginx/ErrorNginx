@@ -20,7 +20,7 @@
    - Experience in using orchestration tools (e.g. Airflow, Nifi)
    - Experience open source transformation tool (e.g. dbt)
   
- ###### 1. [tool tech]
+ ###### [tool tech]
    - Source : mysql, postgres
    - Data cloud storage : big query (know) 
    - Orchestration : Airflow, Astronomer
