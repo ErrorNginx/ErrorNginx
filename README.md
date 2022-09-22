@@ -34,9 +34,10 @@
  
    
 #### 2. [Pusat Teknologi Informasi dan Pangkalan Data, PTIPD ](https://ptipd.uinsgd.ac.id/) | IT Support | Bandung `2019-2019`
-   - Development web departement
-   - Development 
-   - Development
+   - Create and develop websites, in a university environment
+   - Apply UI / UX in website 
+   - approach mobile first
+   - Use framwork CodeIgniter
 ---
 
 ### Languages and Tools:
