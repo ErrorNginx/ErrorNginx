@@ -11,7 +11,7 @@
 #### 1. [Universitas Islam Negeri Sunan Gunung Djati](https://uinsgd.ac.id/) | bachelor of information technology | Bandung `2016-2020`
    - web developer in Pusat Teknologi Informasi dan Pangkalan Data
  #### 2. [SMA N 1 Jamblang](https://sman1jamblang.sch.id/) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+   - Chief of Rohis
 
 ## Work Experience:
 #### 1. [Rumah Zakat](https://www.rumahzakat.org) | Data Enginner | Bandung `march'2022 - Now`
@@ -19,6 +19,19 @@
    - Development data lifecycle from ingestion, cleansing, transformation to consumption.
    - Experience in using orchestration tools (e.g. Airflow, Nifi)
    - Experience open source transformation tool (e.g. dbt)
+  
+ ###### 1. [tool tech]
+   - Source : mysql, postgres
+   - Data cloud storage : big query (know) 
+   - Orchestration : Airflow, Astronomer
+   - Transformation : DBT
+   - IDEs & workspace : google colab, jupyter
+   - BI / visualisasi : Metabase , google studio 
+   - data quality : great expectation
+   - database tool : dbeaver, navicat
+   - Erp : odoo
+   - docker, vscode, etc
+ 
    
 #### 2. [Pusat Teknologi Informasi dan Pangkalan Data, PTIPD ](https://ptipd.uinsgd.ac.id/) | IT Support | Bandung `2019-2019`
    - Development
