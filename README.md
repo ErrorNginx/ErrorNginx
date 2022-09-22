@@ -22,7 +22,7 @@
   
  ###### [tool tech]
    - Source : mysql, postgres
-   - Data cloud storage : big query (know) 
+   - Data cloud storage : big query , snowflake(know) 
    - Orchestration : Airflow, Astronomer
    - Transformation : DBT
    - IDEs & workspace : google colab, jupyter
@@ -34,8 +34,8 @@
  
    
 #### 2. [Pusat Teknologi Informasi dan Pangkalan Data, PTIPD ](https://ptipd.uinsgd.ac.id/) | IT Support | Bandung `2019-2019`
-   - Development
-   - Development
+   - Development web departement
+   - Development 
    - Development
 ---
 
