@@ -1,4 +1,4 @@
-# Hi there, I'm Agus Mahari [agusmahari](https://agusmahari.github.io/) 👋
+# Hi there, I'm [agusmahari](https://agusmahari.github.io/) 👋
 ## About me:
 - 🔭 I’m currently working at [rumahzakat](https://www.rumahzakat.org)
 - 🌱 I’m currently learning Python, big query and other for data processing
