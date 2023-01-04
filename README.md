@@ -1,9 +1,9 @@
 # Hi there, I'm [agusmahari](https://agusmahari.github.io/) 👋
 ## About me:
 - 🔭 I’m currently working at [rumahzakat](https://www.rumahzakat.org)
-- 🌱 I’m currently learning Python, big query and other for data processing
+- 🌱 I’m currently learning Python, big query, cloud sql, cloud storage,  and other for data processing
 - 👯 I’m looking to collaborate as Data Analyst
-- 💬 Ask me about anything
+- 💬 sociable to collaborate working
 - 📫 How to reach me: agusmahari@gmail.com
 
 ## Education:
