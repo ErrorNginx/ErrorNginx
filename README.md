@@ -10,7 +10,7 @@
 
 #### 1. [Universitas Islam Negeri Sunan Gunung Djati](https://uinsgd.ac.id/) | bachelor of information technology | Bandung `2016-2020`
    - web developer in Pusat Teknologi Informasi dan Pangkalan Data
- #### 2. [SMA N 1 Jamblang](https://sman1jamblang.sch.id/) | MIPA | Kebumen `2013-2016`
+ #### 2. [SMA N 1 Jamblang](https://sman1jamblang.sch.id/) | MIPA | Kab.Cirebon `2013-2016`
    - Chief of Rohis
 
 ## Work Experience:
