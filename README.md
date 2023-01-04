@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python, big query, cloud sql, cloud storage,  and other for data processing
 - 👯 I’m looking to collaborate as Data Analyst
 - 💬 sociable to collaborate working
-- 📫 How to reach me: agusmahari@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/agus-mahari/
 
 ## Education:
 
