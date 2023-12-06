@@ -8,13 +8,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/agus-mahari/ (https://www.youtube.com/watch?v=Dl-ekLb4quE&ab_channel=TroubleChute)
 
 
-## Education:
-
-#### 1. [Universitas Islam Negeri Sunan Gunung Djati](https://uinsgd.ac.id/) | bachelor of information technology | Bandung `2016-2020`
-   - web developer in Pusat Teknologi Informasi dan Pangkalan Data
- #### 2. [SMA N 1 Jamblang](https://sman1jamblang.sch.id/) | MIPA | Kab.Cirebon `2013-2016`
-   - Chief of Rohis
-
 ## Work Experience:
 #### 1. [IYKRA placed at BANK NEGARA INDONESIA (Persero) Tbk - Jakarta, Indonesia](https://www.bni.co.id/id-id/) | Data Enginner | Jakarta `Juni'2022 - Now`
    - Perform ETL (Extract, Load, Transform) process for table source in Teradata to Cloudera (Hive) using IBM Datastage.
@@ -55,6 +48,13 @@
    
 
 ---
+
+## Education:
+
+#### 1. [Universitas Islam Negeri Sunan Gunung Djati](https://uinsgd.ac.id/) | bachelor of information technology | Bandung `2016-2020`
+   - web developer in Pusat Teknologi Informasi dan Pangkalan Data
+ #### 2. [SMA N 1 Jamblang](https://sman1jamblang.sch.id/) | MIPA | Kab.Cirebon `2013-2016`
+   - Chief of Rohis
 
 ### Languages and Tools:
 
