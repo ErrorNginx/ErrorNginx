@@ -1,8 +1,8 @@
 # Hi there, I'm [agusmahari](https://agusmahari.github.io/) 👋
 ## About me:
 ![Cpp](https://img.shields.io/youtube/channel/subscribers/UCUcrvwPZVbuMF1Qxy4_9Veg?style=social)&nbsp;&nbsp;
-- 🔭 I’m currently working at [rumahzakat](https://www.rumahzakat.org)
-- 🌱 I’m currently learning Python, big query, cloud sql, cloud storage,  and other for data processing
+- 🔭 I’m currently Iykra placed at BANK NEGARA INDONESIA (Persero) Tbk - Jakarta, Indonesia) as Data Enginner
+- 🌱 I’m currently learning Python, google cloude, AWS, kubernetes cluster,  and Data Infra
 - 👯 I’m looking to collaborate as Data Analyst
 - 💬 sociable to collaborate working
 - 📫 How to reach me: https://www.linkedin.com/in/agus-mahari/ (https://www.youtube.com/watch?v=Dl-ekLb4quE&ab_channel=TroubleChute)
@@ -16,30 +16,44 @@
    - Chief of Rohis
 
 ## Work Experience:
-#### 1. [Rumah Zakat](https://www.rumahzakat.org) | Data Enginner | Bandung `march'2022 - Now`
+#### 1. [IYKRA placed at BANK NEGARA INDONESIA (Persero) Tbk - Jakarta, Indonesia](https://www.bni.co.id/id-id/) | Data Enginner | Jakarta `Juni'2022 - Now`
+   - Perform ETL (Extract, Load, Transform) process for table source in Teradata to Cloudera (Hive) using IBM Datastage.
+   - Develop jobs for forming sources related to Project BNI Corporate Transformation
+   - Develop DataMart for departmen busnise Data  manajemen analytik
+   - Developing Migration Job from Teradata SQL and Procedures to Cloudera (Hive).
+   - Validate the job that has been developed
+
+#### 2. [Medium](https://medium.com/@agusmahari) | Conten Writer |  `Januari'2022 - Now`
+   - Writing concise, persuasive, and original content summaries for academic and entertainment purposes on Data Engineering, Data Infrastructure, Visualization, and Data Engineering tools.
+   - Crafting well-structured, coherent, and compelling articles that effectively.
+   - Conducting thorough research to gather accurate information and supporting data for my article, where I utilize AWS and Google Cloud for practical lab work in the article creation.
+   
+#### 3. [Rumah Zakat](https://www.rumahzakat.org) | Data Enginner | Bandung `march'2022 - Now`
    - Development of data pipe with airflow
    - Development data lifecycle from ingestion, cleansing, transformation to consumption.
    - Experience in using orchestration tools (e.g. Airflow, Nifi)
    - Experience open source transformation tool (e.g. dbt)
-  
- ###### [tool tech]
-   - Source : mysql, postgres
-   - Data cloud storage : big query , snowflake(know) 
-   - Orchestration : Airflow, Astronomer
-   - Transformation : DBT
-   - IDEs & workspace : google colab, jupyter
-   - BI / visualisasi : Metabase , google studio 
-   - data quality : great expectation
-   - database tool : dbeaver, navicat
-   - Erp : odoo
-   - docker, vscode, etc
- 
-   
-#### 2. [Pusat Teknologi Informasi dan Pangkalan Data, PTIPD ](https://ptipd.uinsgd.ac.id/) | IT Support | Bandung `2019-2019`
+
+#### 4. [Pusat Teknologi Informasi dan Pangkalan Data, PTIPD ](https://ptipd.uinsgd.ac.id/) | IT Support | Bandung `2019-2019`
    - Create and develop websites, in a university environment
    - Apply UI / UX in website 
    - approach mobile first
    - Use framwork CodeIgniter
+  
+ ###### [Tech Stack]
+   - Source : mysql, postgres. data anaytics, external data
+   - google clouds : storage, bigquery, GKE, PubSub, Compute Engine, Docker
+   - Amazon Web Service : S3, Redshift, Athena, EKS, ECR, ECS, SC2
+   - Orchestration : Airflow, Astronomer, Mage.ai
+   - Transformation : DBT, SQL
+   - IDEs & workspace : VSCODE, google colab, jupyter
+   - BI / visualisasi : google studio, Tableau
+   - data quality : DBT , SQL
+   - database tool : dbeaver, navicat
+   - Erp : odoo
+ 
+   
+
 ---
 
 ### Languages and Tools:
