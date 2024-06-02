@@ -1,7 +1,7 @@
 # Hi there, I'm [agusmahari](https://agusmahari.github.io/) 👋
 ## About me:
 ![Cpp](https://img.shields.io/youtube/channel/subscribers/UCUcrvwPZVbuMF1Qxy4_9Veg?style=social)&nbsp;&nbsp;
-- 🔭 I’m currently Iykra placed at BANK NEGARA INDONESIA (Persero) Tbk - Jakarta, Indonesia) as Data Enginner
+- 🔭 I’m currently Astra Internasional - Jakarta, Indonesia) as Data Enginner
 - 🌱 I’m currently learning Python, google cloude, AWS, kubernetes cluster,  and Data Infra
 - 👯 I’m looking to collaborate as Data Analyst
 - 💬 sociable to collaborate working
