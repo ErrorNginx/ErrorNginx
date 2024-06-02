@@ -9,25 +9,28 @@
 
 
 ## Work Experience:
-#### 1. [IYKRA placed at BANK NEGARA INDONESIA (Persero) Tbk - Jakarta, Indonesia](https://www.bni.co.id/id-id/) | Data Enginner | Jakarta `Juni'2022 - Now`
+#### 1. [PT ASTRA INTERNASIONAL Tbk - Jakarta, Indonesia](https://www.astra.co.id/) | Data Enginner | Jakarta `MEY'2024 - Now`
+   - Perform ETL (Extract, Load, Transform) process for table source in 
+
+#### 2. [IYKRA placed at BANK NEGARA INDONESIA (Persero) Tbk - Jakarta, Indonesia](https://www.bni.co.id/id-id/) | Data Enginner | Jakarta `Juni'2023 - Maret 2024`
    - Perform ETL (Extract, Load, Transform) process for table source in Teradata to Cloudera (Hive) using IBM Datastage.
    - Develop jobs for forming sources related to Project BNI Corporate Transformation
    - Develop DataMart for departmen busnise Data  manajemen analytik
    - Developing Migration Job from Teradata SQL and Procedures to Cloudera (Hive).
    - Validate the job that has been developed
 
-#### 2. [Medium](https://medium.com/@agusmahari) | Conten Writer |  `Januari'2022 - Now`
+#### 3. [Medium](https://medium.com/@agusmahari) | Conten Writer |  `Januari'2022 - Now`
    - Writing concise, persuasive, and original content summaries for academic and entertainment purposes on Data Engineering, Data Infrastructure, Visualization, and Data Engineering tools.
    - Crafting well-structured, coherent, and compelling articles that effectively.
    - Conducting thorough research to gather accurate information and supporting data for my article, where I utilize AWS and Google Cloud for practical lab work in the article creation.
    
-#### 3. [Rumah Zakat](https://www.rumahzakat.org) | Data Enginner | Bandung `march'2022 - Now`
+#### 4. [Rumah Zakat](https://www.rumahzakat.org) | Data Enginner | Bandung `march'2022 - Now`
    - Development of data pipe with airflow
    - Development data lifecycle from ingestion, cleansing, transformation to consumption.
    - Experience in using orchestration tools (e.g. Airflow, Nifi)
    - Experience open source transformation tool (e.g. dbt)
 
-#### 4. [Pusat Teknologi Informasi dan Pangkalan Data, PTIPD ](https://ptipd.uinsgd.ac.id/) | IT Support | Bandung `2019-2019`
+#### 5. [Pusat Teknologi Informasi dan Pangkalan Data, PTIPD ](https://ptipd.uinsgd.ac.id/) | IT Support | Bandung `2019-2019`
    - Create and develop websites, in a university environment
    - Apply UI / UX in website 
    - approach mobile first
